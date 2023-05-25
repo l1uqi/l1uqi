@@ -4,6 +4,7 @@
 
 - 我是一名前端开发, 工作生活在长沙。
 - 想了解更多请关注我的博客[L1uqi](https://hello7cat.com/)
+- 目前正在开发draggable-uploader
 - Mail: chyi_fox@foxmail.com
 
 <!-- - 🌱 I’m currently learning FE. -->
