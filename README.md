@@ -7,10 +7,6 @@
 <!-- - 🌱 I’m currently learning FE. -->
 
 
-### 📫 Contact Me
-
-
-
 ![l1uqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1uqi&show_icons=true)
 
 
