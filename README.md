@@ -1,7 +1,7 @@
 ### Hi there, I'm 刘琦 👋👋
 
 - 👀 我是一名前端开发, 在长沙工作。
-- 
+- 想了解更多请关注我的博客![L1uqi](https://hello7cat.com/)
 <!-- - 🌱 I’m currently learning FE. -->
 
 
@@ -9,7 +9,7 @@
 - ✉️ Mail: chyi_fox@foxmail.com
 
 
-![l1uqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1uqi&show_icons=true&theme=radical)
+![l1uqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1uqi&show_icons=true)
 
 
 <!--
