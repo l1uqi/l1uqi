@@ -1,3 +1,5 @@
+<a href="https://hello7cat.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=l1uqi&show_icons=true&count_private=false&theme=vue-dark" /></a>
+
 ### Hi there, I'm 刘琦 👋👋
 
 - 我是一名前端开发, 工作生活在长沙。
@@ -5,8 +7,6 @@
 - Mail: chyi_fox@foxmail.com
 
 <!-- - 🌱 I’m currently learning FE. -->
-
-<a href="https://hello7cat.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=l1uqi&show_icons=true&count_private=false&theme=vue-dark" /></a>
 
 
 <!--
