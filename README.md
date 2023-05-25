@@ -1,7 +1,8 @@
 ### Hi there, I'm 刘琦 👋👋
 
-- 👀 我是一名前端开发, 在长沙工作。
-- 想了解更多请关注我的博客![L1uqi](https://hello7cat.com/)
+- 我是一名前端开发, 在长沙工作。
+- 想了解更多请关注我的博客[L1uqi](https://hello7cat.com/)
+
 <!-- - 🌱 I’m currently learning FE. -->
 
 
