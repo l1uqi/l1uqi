@@ -6,8 +6,12 @@
 
 <!-- - 🌱 I’m currently learning FE. -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1uqi)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://hello7cat.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=l1uqi&show_icons=true&count_private=false&theme=vue-dark" /></a>
 
+
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1uqi)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **l1uqi/l1uqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
