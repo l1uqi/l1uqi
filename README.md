@@ -1,4 +1,4 @@
-<a href="https://hello7cat.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=l1uqi&show_icons=true&count_private=false&theme=vue-dark" /></a>
+<a href="https://hello7cat.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=l1uqi&show_icons=true&count_private=false" /></a>
 
 ### Hi there, I'm 刘琦 👋👋
 
