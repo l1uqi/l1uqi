@@ -1,7 +1,5 @@
 <a href="https://hello7cat.com/" target="_blank"><img align="right" style="margin-right:20px;" src="https://github-readme-stats.vercel.app/api?username=l1uqi&show_icons=true&count_private=false" /></a>
-
 ### Hi I'm 刘琦 👋
-
 - 我是一名前端开发, 工作生活在长沙。
 - 爱用Vue全家桶, 写过flutter app,  用过tauri
 - 目前在正在学习Rust, Canvas, 低代码
