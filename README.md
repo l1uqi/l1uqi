@@ -9,7 +9,7 @@
 - ✉️ Mail: chyi_fox@foxmail.com
 
 
-![l1uqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuqi&show_icons=true&theme=radical)
+![l1uqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1uqi&show_icons=true&theme=radical)
 
 
 <!--
