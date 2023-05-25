@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m liuqi
+- 👀 I am an developer,Now I work in Changsha.
+<!-- - 🌱 I’m currently learning FE. -->
+- ✉️ Mail: chyi_fox@foxmail.com
+
+
+
+
+
 <!--
 **l1uqi/l1uqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
