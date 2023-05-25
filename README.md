@@ -1,12 +1,15 @@
 ### Hi there, I'm 刘琦 👋👋
 
-- 👀 I'm a front-end developer based in Changsha
+- 👀 我是一名前端开发, 在长沙工作。
+- 
 <!-- - 🌱 I’m currently learning FE. -->
 
 
 ### 📫 Contact Me
 - ✉️ Mail: chyi_fox@foxmail.com
 
+
+![l1uqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuqi&show_icons=true&theme=radical)
 
 
 <!--
