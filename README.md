@@ -10,6 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=l1uqi&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;"
 /\>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1uqi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
