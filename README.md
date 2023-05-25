@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, I'm 刘琦 👋👋
 
-- 👋 Hi, I’m liuqi
-- 👀 I am an developer,Now I work in Changsha.
+- 👀 I'm a front-end developer based in Changsha
 <!-- - 🌱 I’m currently learning FE. -->
+
+
+### 📫 Contact Me
 - ✉️ Mail: chyi_fox@foxmail.com
-
-
 
 
 
